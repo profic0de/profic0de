@@ -2,7 +2,7 @@
 
 Hello! I'm a minecraft developer with a passion for building custom tools and creating innovative solutions.
 
-### 🔧 Skills & Technologies
+### 🔧 Skills
 - **Languages**: Python, C++, Java, C
 - **Game Development**: Minecraft modding (Fabric), game networking
 - **Networking**: Custom protocols, server-client communication, encryption
